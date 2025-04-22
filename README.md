@@ -1,7 +1,7 @@
----------------------------- HYDROGEN ATOM ORBITAL SIMULATOR ---------------------------------------
----------------------------------- By Chris Gudmundsen ---------------------------------------------
--------------------------------------- Dec. 2024 ---------------------------------------------------
- 
+HYDROGEN ATOM ORBITAL SIMULATOR
+BY CHRIS GUDMUNDSEN
+DEC. 2024
+
   This program is meant to calculate and display the probability density functions of an electron in 
 the hydrogen atom. Once the user enters their desired quantum numbers, a window is created with 3 axes
 and several spheres arranged in a cube. The origin of the axis represents the nucleus of the
