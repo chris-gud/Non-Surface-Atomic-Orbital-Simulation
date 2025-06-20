@@ -20,18 +20,18 @@ a surface, within which the electron has that cutoff probability of existing ins
 fails to convey a lot of information; the viewer cannot visualize the probability densities within the surface.
 A naive viewer may be led to believe that the probability density is thus uniform within the surface.
 This is not the case. This program is meant to prove it.
+  
+  
+CONTROLS:   
+
+  W : move forwards into the plane of the screen  
+  S : move backwards away from the plane of the screen  
+  A : move left upon the plane of the screen  
+  D : move right upon the plane of the screen  
+  Mouse : click and drag to change camera angle  
 
 
-CONTROLS: 
-
-  W : move forwards into the plane of the screen
-  S : move backwards away from the plane of the screen
-  A : move left upon the plane of the screen
-  D : move right upon the plane of the screen
-  Mouse : click and drag to change camera angle
-
-
-EXAMPLE IMAGES: 
+EXAMPLE IMAGES:   
 
 Quantum numbers: n = 1, l = 0, ml = 0
 <img width="950" alt="Image" src="https://github.com/user-attachments/assets/909b11bd-faba-46ad-b458-c6f81b00f0c8" />
