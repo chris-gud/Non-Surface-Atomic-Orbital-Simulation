@@ -39,19 +39,25 @@ Quantum numbers: n = 1, l = 0, ml = 0
 Quantum numbers: n = 2, l = 1, ml = 1
 <img width="849" alt="Image" src="https://github.com/user-attachments/assets/91e99976-0829-4779-bde7-df8867ba79c3" />
 
+Quantum numbers: n = 3, l = 1, ml = 0
+<img width="832" alt="Image" src="https://github.com/user-attachments/assets/4bc286d5-6f3a-4194-ab32-34415b85d1a6" />
+
 Quantum numbers: n = 3, l = 2, ml = 0
 <img width="1002" alt="Image" src="https://github.com/user-attachments/assets/bddaa497-da7b-4e81-b2ee-fd7b567bac4b" />
+
+Quantum numbers: n = 3, l = 2, ml = 1
+<img width="832" alt="Image" src="https://github.com/user-attachments/assets/1e3f55ed-303d-403e-ad87-0576cfc8a63a" />
 
 
 ## ACKNOWLEDGEMENTS
  
-OpenGL single sphere indices and vertices generation from "OpenGL Sphere Tutorial" by Song Ho Ahn
-https://www.songho.ca/opengl/gl_sphere.html
+OpenGL single sphere indices and vertices generation from "OpenGL Sphere Tutorial" by Song Ho Ahn  
+https://www.songho.ca/opengl/gl_sphere.html    
 
 Texture, Camera, EBO, VAO, VBO, and shaderClass .cpp and .h (basic OpenGL 3D display and movement)
-from Youtube "OpenGL Course - Create 3D and 2D Graphics With C++" by freeCodeCamp.org
-(Github VictorGordan/opengl-tutorials)
-https://www.youtube.com/watch?v=45MIykWJ-C4
-https://github.com/VictorGordan/opengl-tutorials
+from Youtube "OpenGL Course - Create 3D and 2D Graphics With C++" by freeCodeCamp.org  
+(Github VictorGordan/opengl-tutorials)  
+https://www.youtube.com/watch?v=45MIykWJ-C4  
+https://github.com/VictorGordan/opengl-tutorials    
 
 Glad library
