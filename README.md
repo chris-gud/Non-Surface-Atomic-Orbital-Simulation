@@ -62,7 +62,7 @@ https://github.com/VictorGordan/opengl-tutorials
 
 Glad library     
 
-
+---
 
 <a href="mailto:chrisgudmundsen@gmail.com">Let me know if you found this interesting!</a>  
 
