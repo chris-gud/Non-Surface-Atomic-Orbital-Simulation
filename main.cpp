@@ -42,6 +42,8 @@ from Youtube "OpenGL Course - Create 3D and 2D Graphics With C++" by freeCodeCam
 https://www.youtube.com/watch?v=45MIykWJ-C4
 https://github.com/VictorGordan/opengl-tutorials
 
+Glad library
+
 --------------------------------------------------------------------------------------------------*/
 
 #include <filesystem>
