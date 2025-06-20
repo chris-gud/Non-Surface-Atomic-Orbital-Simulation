@@ -22,7 +22,7 @@ A naive viewer may be led to believe that the probability density is thus unifor
 This is not the case. This program is meant to prove it.  
   
   
-CONTROLS:   
+##CONTROLS:   
 
   W : move forwards into the plane of the screen  
   S : move backwards away from the plane of the screen  
@@ -31,7 +31,7 @@ CONTROLS:
   Mouse : click and drag to change camera angle    
 
 
-EXAMPLE IMAGES:     
+##EXAMPLE IMAGES:     
 
 Quantum numbers: n = 1, l = 0, ml = 0
 <img width="950" alt="Image" src="https://github.com/user-attachments/assets/909b11bd-faba-46ad-b458-c6f81b00f0c8" />
