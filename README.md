@@ -1,5 +1,6 @@
 # HYDROGEN ATOM ORBITAL SIMULATOR
 BY CHRIS GUDMUNDSEN  
+chrisgudmundsen@gmail.com  
 DEC. 2024  
 
 &nbsp;&nbsp;This program is meant to calculate and display the probability density functions of an electron in 
