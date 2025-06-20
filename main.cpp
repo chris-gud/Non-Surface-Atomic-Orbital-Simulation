@@ -4,10 +4,10 @@
  
   This program is meant to graph and display the probability density functions of an electron in the
 hydrogen atom. Once the user enters their desired quantum numbers, a window is created with 3 axes
-and several spheres arranged in a cube. The origin of the axis represents the nucleus of the
-hydrogen atom. The electron probability density at several points in 3D space is represented by the
-radius of the sphere at that location. The maximum radius for each orbital is arbitrary - it has
-been manually fitted to be visually appealing and clear (this means that it is not recommended to
+and several spheres arranged in a cube. The electron probability density at several points in 3D space 
+is represented by the radius of the sphere at that location. The origin of the axis represents the 
+nucleus of the hydrogen atom. The maximum radius for each orbital is arbitrary - it has been 
+manually fitted to be visually appealing and clear (this means that it is not recommended to
 draw conclusions from radius size when comparing orbitals stemming from different combinations of
 quantum numbers). In addition, the scale of the axes change from orbital to orbital. They have been
 manually set to display the most interesting parts of each orbital clearly. The viewer can assume
@@ -16,10 +16,20 @@ each orbital is printed to terminal for the viewer's reference.
  
   How is this simulation different from the rest? Most depictions of the orbitals of the hydrogen 
 atom depict a surface. The creator chooses some cutoff probability (90% usually) for which to depict
-a surface that the electron has that cutoff probability of being within at any time. However, this
-loses a lot of information; the viewer cannot visualize the probability densities within the surface.
-A naive viewer may be led to believe that the probability density is thus uniform within the surface.
-This is not the case. This program is meant to prove it.
+a surface, within which the electron has that cutoff probability of existing inside of at any time. 
+However, this fails to convey a lot of information; the viewer cannot visualize the probability 
+densities within the surface. A naive viewer may be led to believe that the probability density is 
+thus uniform within the surface. This is not the case. This program is meant to prove it.
+
+CONTROLS: 
+
+  W : move forwards into the plane of the screen
+  S : move backwards away from the plane of the screen
+  A : move left upon the plane of the screen
+  D : move right upon the plane of the screen
+  Mouse : click and drag to change camera angle
+
+SEE README FOR EXAMPLE IMAGES
 
 ----------------------------------- ACKNOWLEDGEMENTS -----------------------------------------------
  
