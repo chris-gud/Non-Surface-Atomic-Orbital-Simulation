@@ -43,7 +43,7 @@ Quantum numbers: n = 3, l = 2, ml = 0
 <img width="1002" alt="Image" src="https://github.com/user-attachments/assets/bddaa497-da7b-4e81-b2ee-fd7b567bac4b" />
 
 
------------------------------------ ACKNOWLEDGEMENTS -----------------------------------------------
+## ACKNOWLEDGEMENTS
  
 OpenGL single sphere indices and vertices generation from "OpenGL Sphere Tutorial" by Song Ho Ahn
 https://www.songho.ca/opengl/gl_sphere.html
@@ -54,4 +54,4 @@ from Youtube "OpenGL Course - Create 3D and 2D Graphics With C++" by freeCodeCam
 https://www.youtube.com/watch?v=45MIykWJ-C4
 https://github.com/VictorGordan/opengl-tutorials
 
------------------------------------------------------------------------------------------------------
+Glad library
