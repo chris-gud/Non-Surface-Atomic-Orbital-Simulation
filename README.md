@@ -1,6 +1,5 @@
 # HYDROGEN ATOM ORBITAL SIMULATOR
 BY CHRIS GUDMUNDSEN  
-chrisgudmundsen@gmail.com  
 DEC. 2024  
 
 &nbsp;&nbsp;This program is meant to calculate and display the probability density functions of an electron in 
@@ -61,4 +60,9 @@ from Youtube "OpenGL Course - Create 3D and 2D Graphics With C++" by freeCodeCam
 https://www.youtube.com/watch?v=45MIykWJ-C4  
 https://github.com/VictorGordan/opengl-tutorials    
 
-Glad library
+Glad library     
+
+
+
+<a href="mailto:chrisgudmundsen@gmail.com">Let me know if you found this interesting!</a>  
+
